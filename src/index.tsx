@@ -1,0 +1,1 @@
+export * as jonh from './collections/jonh/index'

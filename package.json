@@ -1,0 +1,42 @@
+{
+  "name": "free-react-icons",
+  "version": "1.0.2",
+  "description": "A library of free (CC0) react icons",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "dist/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnk-softworks/free-react-icons.git"
+  },
+  "keywords": [
+    "react",
+    "react-icons",
+    "cc0",
+    "icons",
+    "cc0-icons",
+    "free-icons",
+    "free-react-icons"
+  ],
+  "author": "Kawba",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/gnk-softworks/free-react-icons/issues"
+  },
+  "homepage": "https://github.com/gnk-softworks/free-react-icons#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.4.5"
+  }
+}
